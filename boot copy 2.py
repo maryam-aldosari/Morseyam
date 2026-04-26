@@ -1,10 +1,10 @@
-# This file is executed on every boot (including wake-boot from deepsleep)
+
 #import esp
 #esp.osdebug(None)
 import webrepl
 webrepl.start()
 
-# This file is executed on every boot (including wake-boot from deepsleep)
+
 #import esp
 #esp.osdebug(None)
 import webrepl
@@ -14,7 +14,7 @@ import network
 import time
 import webrepl
 
-# Replace with your actual WiFi credentials
+
 SSID = '905@Vantage'
 PASSWORD = 'X10rYHkhGzCI'
 
