@@ -6,6 +6,11 @@ LINK TO DEMO --- > https://youtu.be/o3DJzewYiUY
 
 Thank you for reviewing my project. 
 
+The video above consist of 3 clips:
+  - Demoing the project.
+  - The video of the arduinos as the LED flashes when I typed "send_message("python project") in the demo video.
+  - A close-up of the hardware and a brief explaination of how it works.
+
 CODE:
 There are a few things that I had forgot to mention, one being is the way I obtained the webrpl link for both arduinos is that I connected to each arduinos and ran the "boot.py" and afterwards I hit CTRL-D and once I do I'd be given a unique link. I do this to both arduinos and once I have them I open the WebRPL website and connect to each arduino's unique WebRPL link. From there, we could send codes directly from online instead of having to do it over, and over again. 
 
