@@ -14,8 +14,8 @@ import time
 import webrepl
 
 
-SSID = '905@Vantage'
-PASSWORD = 'X10rYHkhGzCI'
+SSID = '[wifi_name]'
+PASSWORD = '[wifi_pass]'
 
 def connect_wifi():
     wlan = network.WLAN(network.STA_IF)
