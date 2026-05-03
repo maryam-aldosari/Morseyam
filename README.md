@@ -3,12 +3,9 @@
 Hello, everyone!
 
 
-
-(CORRECTION: FILE SHOWCASED IN THE VIDEO IS THE READER FILE NOT SENDER, I HAVE ATTACHED BOTH TO THE REPO).
-
 Thank you for reviewing my project. 
 
-The video above consist of 3 clips:
+The demo video above consist of 3 clips:
   - Demoing the project.
   - The video of the arduinos as the LED flashes when I typed "send_message("python project") in the demo video.
   - A close-up of the hardware and a brief explaination of how it works.
